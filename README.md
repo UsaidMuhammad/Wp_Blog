@@ -1,1 +1,1 @@
-#A static theme being implemented in wordpress
+# A static theme being implemented in wordpress
